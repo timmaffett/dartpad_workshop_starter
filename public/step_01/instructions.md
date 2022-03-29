@@ -39,3 +39,16 @@ and this is more
 * `AnimatedShape`
 * `AnimatedRectangle`
 * `AnimatedColor`
+
+and this is more WITHOUT inline code blocks
+
+1) AnimatedContainer
+2) AnimatedOpacity
+3) AnimatedRotation
+4) AnimatedScale
+
+* AnimatedContainer
+* AnimatedShape
+* AnimatedRectangle
+* AnimatedColor
+
