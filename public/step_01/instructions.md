@@ -25,3 +25,17 @@ children: [
   ),
 ],
 ```
+
+>This is a blockquote that should have a bar in front of the entire paragraph and it does not seem to be total styled correctly within the workshop markdown area and this needs a style added.
+
+and this is more
+
+1) `AnimatedContainer`
+2) `AnimatedOpacity`
+3) `AnimatedRotation`
+4) `AnimatedScale`
+
+* `AnimatedContainer`
+* `AnimatedShape`
+* `AnimatedRectangle`
+* `AnimatedColor`
