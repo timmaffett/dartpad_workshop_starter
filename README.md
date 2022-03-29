@@ -45,3 +45,34 @@ firebase deploy
 ```
 https://dartpad.dev/workshops.html?webserver=https://<FIREBASE_PROJECT_ID>.web.app
 ```
+
+
+https://dartpad.dev/workshops.html?webserver=https://raw.githubusercontent.com/timmaffett/dartpad_workshop_starter
+/main/pubic/
+
+
+
+```css
+blockquote {
+    margin: 0 7px 0 5px;
+    padding: 0 16px 0 10px;
+    border-left-width: 5px;
+    border-left-style: solid;
+}
+<style>
+blockquote {
+    background: var(--vscode-textBlockQuote-background);
+    border-color: var(--vscode-textBlockQuote-border);
+}
+blockquote[Attributes Style] {
+    unicode-bidi: isolate;
+}
+user agent stylesheet
+blockquote {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+```
