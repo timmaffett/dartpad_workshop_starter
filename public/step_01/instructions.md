@@ -41,7 +41,7 @@ and this is more
 * `AnimatedColor`
 
 and this is more WITHOUT inline code blocks
-
+>Really Short Blockquote
 1) AnimatedContainer
 2) AnimatedOpacity
 3) AnimatedRotation
@@ -51,6 +51,8 @@ and this is more WITHOUT inline code blocks
 * AnimatedShape
 * AnimatedRectangle
 * AnimatedColor
+
+> A super short block quote
 
 and this is more WITH both  inline code blocks
 
