@@ -52,3 +52,14 @@ and this is more WITHOUT inline code blocks
 * AnimatedRectangle
 * AnimatedColor
 
+and this is more WITH both  inline code blocks
+
+1) AnimatedContainer    `AnimatedContainer` and more text
+2) AnimatedOpacity   `AnimatedShape`  and some more text
+3) AnimatedRotation   `AnimatedRectangle` and some more text
+4) AnimatedScale     `AnimatedRotation`  and a little more text
+
+* AnimatedContainer    `AnimatedContainer` and more text
+* AnimatedShape  `AnimatedShape`  and some more text
+* AnimatedRectangle  `AnimatedRectangle` and some more text
+* AnimatedColor  `AnimatedRotation`  and a little more text
